@@ -444,6 +444,12 @@ public class Democlass {
       System.out.println("4. Exit");
       System.out.println("*********************************");
       System.out.print("Enter your choice: ");
+
+      System.out.println("2. Display Timetable");
+      System.out.println("3. Edit Exam");
+      System.out.println("4. Exit");
+      System.out.println("*********************************");
+      System.out.print("Enter your choice: ");
   }
 }
 
